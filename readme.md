@@ -4,3 +4,4 @@ le script hello.sh efface l ecran
 
 ## 2eme tache : 
 Le script hello.sh Affiche "Bonjour Monde ! "
+BONNJOUE JE M APPELLE REMI
